@@ -32,3 +32,7 @@ the line can be changed to something like:
 
 'if dxcall[:2] == "DL" or call[:2] == "DL" or dxcall[:2] == "JA" or
 call[:2] == "JA" or dxcall[:2] == "JR" or call[:2] == "JR":'
+
+By the way, if you want to see DXrele in action, come an join the
+channel #ohdxhf @ IRCnet and stay there some time. The channel bot
+spots Scandinavian infos.
