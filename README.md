@@ -38,16 +38,25 @@ In addition to freely flowing DX-infos and solar data, the bot has
 a few commands. '??' gives the following list.
 
 Send commands to teh bot on this channel or in private:
+
 1) .sh/dx [band] [optionally, number of last spots between 1-7, default is 5]
 bands: 160m, 80m, 40m, 30m, 20m, 17m, 15m, 12m, 10m, 6m, 4m, 2m, 70cm, 23cm e.g: .sh/dx 10m 7  or  .sh/dx 2m
+
 2) .sh [dxcall] List up to 10 last spots for the call, e.g: .sh oh2k
+
 3) .wx [wx-station] Print wx-station data retrieved from aprs.fi, e.g: .wx oh2kxh
+
 4) .aprs [call-ssid] Latest location retrieved from aprs.fi  5) .sol  Print lasts solar data
+
 6) .wxp [city] Crowdsourced weather forecast, e.g: .wxp monaco
+
 7) .metar [ICAO aeropuerto code] Aviation weather, e.g: .metar katl  World's biggest aeropuerto
+
 8) .taf [ICAO aeropuerto code] Aviation weather forecast, e.g: .taf efma  OH0-aeropuerto
-
-
+.
+.
 By the way, if you wanna see DXrele in action, come an join the
 channel #ohdxhf @ IRCnet and stay there some time. The channel bot spots
 Scandinavian infos.
+.
+.
