@@ -34,7 +34,8 @@ the line can be changed to something like:
 call[:2] == "JA" or dxcall[:2] == "JR" or call[:2] == "JR":'
 
     D. Commands
-In addition to freely flowing DX-infos and solar data, the bot has a few commands. '??' gives the following list.
+In addition to freely flowing DX-infos and solar data, the bot has
+a few commands. '??' gives the following list.
 
 Send commands to teh bot on this channel or in private:
 1) .sh/dx [band] [optionally, number of last spots between 1-7, default is 5]
@@ -48,5 +49,5 @@ bands: 160m, 80m, 40m, 30m, 20m, 17m, 15m, 12m, 10m, 6m, 4m, 2m, 70cm, 23cm e.g:
 
 
 By the way, if you wanna see DXrele in action, come an join the
-channel #ohdxhf @ IRCnet and stay there some time. The channel bot
-spots Scandinavian infos.
+channel #ohdxhf @ IRCnet and stay there some time. The channel bot spots
+Scandinavian infos.
