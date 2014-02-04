@@ -1,13 +1,14 @@
 DXrele
 ======
 
-DXrele is an irc bot to deliver radio amateur DX-infos, wx, aprs, metar, taf, solar data to your specific irc channel.
-Coding started 01.01.2014. Author Simo Pätäri OH2LRE.
-DXrele is under MIT license. Source location: https://github.com/oh2lre/DXrele
-If you run DXrele on your own, drop me a note. It would be interesting to hear your experience :)
-DX info and solar data source is DXCluster.co.uk
-Aprs and wx data source is aprs.fi
-DXrele is written in Python 2.7.3 and developed on a state-of-the-art Raspberry Pi environment
+DXrele is an irc bot to deliver radio amateur DX-infos, wx, aprs,
+metar, taf, solar data to your specific irc channel. Coding was
+started on 01.01.2014. Author is Simo Pätäri OH2LRE. DXrele is under
+MIT license. Source location: https://github.com/oh2lre/DXrele. If you
+run DXrele, please drop me a note. It would be interesting to hear
+your experience :) DX info and solar data source is DXCluster.co.uk.
+Aprs and wx data source is aprs.fi. DXrele is written in Python 2.7.3
+and developed on a state-of-the-art Raspberry Pi environment.
 
     A. Setup instructions
 Open DXrele.py, and fill your personal values to variables on
