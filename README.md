@@ -53,10 +53,9 @@ bands: 160m, 80m, 40m, 30m, 20m, 17m, 15m, 12m, 10m, 6m, 4m, 2m, 70cm, 23cm e.g:
 7) .metar [ICAO aeropuerto code] Aviation weather, e.g: .metar katl  World's biggest aeropuerto
 
 8) .taf [ICAO aeropuerto code] Aviation weather forecast, e.g: .taf efma  OH0-aeropuerto
-.
-.
+
+
+
 By the way, if you wanna see DXrele in action, come an join the
 channel #ohdxhf @ IRCnet and stay there some time. The channel bot spots
 Scandinavian infos.
-.
-.
