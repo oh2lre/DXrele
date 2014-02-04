@@ -46,7 +46,7 @@ bands: 160m, 80m, 40m, 30m, 20m, 17m, 15m, 12m, 10m, 6m, 4m, 2m, 70cm, 23cm e.g:
 
 3) .wx [wx-station] Print wx-station data retrieved from aprs.fi, e.g: .wx oh2kxh
 
-4) .aprs [call-ssid] Latest location retrieved from aprs.fi  5) .sol  Print lasts solar data
+4) .aprs [call-ssid] Latest location retrieved from aprs.fi  5) .sol  Print last solar data
 
 6) .wxp [city] Crowdsourced weather forecast, e.g: .wxp monaco
 

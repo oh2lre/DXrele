@@ -186,7 +186,7 @@ def komennot(line):
         s.send("PRIVMSG %s :bands: 160m, 80m, 40m, 30m, 20m, 17m, 15m, 12m, 10m, 6m, 4m, 2m, 70cm, 23cm e.g: .sh/dx 10m 7  or  .sh/dx 2m\r\n" % (nikki))
         s.send("PRIVMSG %s :2) .sh [dxcall] List up to 10 last spots for the call, e.g: .sh oh2k\r\n" % (nikki))        
         s.send("PRIVMSG %s :3) .wx [wx-station] Print wx-station data retrieved from aprs.fi, e.g: .wx oh2kxh\r\n" % (nikki))        
-        s.send("PRIVMSG %s :4) .aprs [call-ssid] Latest location retrieved from aprs.fi  5) .sol  Print lasts solar data\r\n" % (nikki))        
+        s.send("PRIVMSG %s :4) .aprs [call-ssid] Latest location retrieved from aprs.fi  5) .sol  Print last solar data\r\n" % (nikki))        
         s.send("PRIVMSG %s :6) .wxp [city] Crowdsourced weather forecast, e.g: .wxp monaco \r\n" % (nikki))                
         s.send("PRIVMSG %s :7) .metar [ICAO aeropuerto code] Aviation weather, e.g: .metar katl  World's biggest aeropuerto\r\n" % (nikki))
         s.send("PRIVMSG %s :8) .taf [ICAO aeropuerto code] Aviation weather forecast, e.g: .taf efma  OH0-aeropuerto\r\n" % (nikki))        
