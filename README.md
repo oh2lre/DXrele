@@ -105,5 +105,5 @@ P6SM SCT150, FM080400 05003KT P6SM BKN120, FM080700 06003KT P6SM
 OVC050, PROB30 0808/0812 -RA BKN035, FM081500 32005KT P6SM BKN100
 
 By the way, if you wanna see DXrele in action, come an join the
-channel #ohdxhf @ IRCnet and stay there some time. The channel bot spots
-Scandinavian infos.
+channel #ohdxhf @ IRCnet and stay there some time. The channel bot
+relays Scandinavian DX-infos.
